@@ -35,3 +35,9 @@
 The screenshot files are for reference only. The Next.js app you are required to build has to look like these screenshots, but we don't expect your views to be an exact clone of every single one of them. All the components in the screenshot were built in plain .jsx with Tailwind CSS, with almost no custom CSS and no additional design assets (images, svg, logos).
 
 Good luck!
+
+## Testing
+To run test, just run in the CLI
+```
+yarn test or npm test
+```
