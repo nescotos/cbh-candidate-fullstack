@@ -5,7 +5,7 @@ describe('App Testing', () => {
   it("should render without crashing", () => {
     render(<App />);
     expect(
-      screen.getByText('Hello, Clipboard health!')
+      screen.getByText('Health Explore')
     ).toBeDefined();
   });
 });
